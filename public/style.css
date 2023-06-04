@@ -1,0 +1,14 @@
+.circle{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 37%;
+    height: 80%;
+    border-radius: 50%;
+    background-color: #e0fce0;
+    transform-origin: center;
+    padding-top: 155px;
+}
+.card-subtitle{
+    padding-bottom: 40px;
+}
